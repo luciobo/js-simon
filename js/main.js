@@ -25,7 +25,12 @@ buttGenNumCas.addEventListener("click", function () {
 
 let contenitoreNumRandom = []
 
-function generaRandom 
+
+
+function generaNuemroCasuale() {
+    
+
+}
 
 
 
