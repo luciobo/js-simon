@@ -17,15 +17,15 @@ buttGenNumCas.addEventListener("click", function () {
     // qui dovro inserire la function del generatore randomico
     // generatorerandomico()
 
-    // qui creero una funzione che dopo 30 secondi cancelli il contenitore
+    // qui inserirò una funzione che dopo 30 secondi cancelli il contenitore
 
-// contnitoreNumeriCasuali.innerHTML = "";
+    // contnitoreNumeriCasuali.innerHTML = "";
 
 })
 
 let contenitoreNumRandom = []
 
-
+function generaRandom 
 
 
 
