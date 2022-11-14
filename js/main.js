@@ -6,31 +6,29 @@
 
 const buttGenNumCas = document.querySelector(".genera-random")
 console.log(buttGenNumCas)
+const contnitoreNumeriCasuali = document.querySelector(".cont-num-cas")
+console.log(contnitoreNumeriCasuali)
 
 
 
 buttGenNumCas.addEventListener("click", function () {
     console.log("bottone cliccato")
 
-    
-    
+    // qui dovro inserire la function del generatore randomico
+    // generatorerandomico()
+
+    // qui creero una funzione che dopo 30 secondi cancelli il contenitore
+
+// contnitoreNumeriCasuali.innerHTML = "";
 
 })
 
 let contenitoreNumRandom = []
 
-function generatorerandomico() {
-
-    for (let i = 0; i < contenitoreNumRandom.length; i++) {
 
 
-        // recupero l'html dove inseriro i numeri casuali
-        const contnitoreNumeriCasuali = document.querySelector(".cont-num-cas")
-        console.log(contnitoreNumeriCasuali)
-    }
-}
 
-// qui creero una funzione che dopo 30 secondi cancelli il contenitore
 
-// contnitoreNumeriCasuali.innerHTML = "";
+
+
 
